@@ -1,0 +1,8 @@
+rice,40
+sugar,35
+oil,120
+milk,25
+bread,30
+eggs,4.80
+flour,20
+tea,10
